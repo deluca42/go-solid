@@ -1,5 +1,4 @@
-# go-solid
-golang solid study
+# golang-solid study one
 
 SOLID em go lang
 
